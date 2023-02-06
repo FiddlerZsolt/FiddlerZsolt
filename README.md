@@ -19,22 +19,45 @@
 ```
 ---
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24px" height="24px" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="24px" height="24px" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="24px" height="24px" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="24px" height="24px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="24px" height="24px" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"  width="24px" height="24px" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="24px" height="24px" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="24px" height="24px" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="24px" height="24px" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width="24px" height="24px" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="24px" height="24px" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="24px" height="24px" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="24px" height="24px" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="24px" height="24px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  width="24px" height="24px" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"  width="24px" height="24px" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="24px" height="24px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="24px" height="24px" />       
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"  width="30px" height="30px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg"  width="30px" height="30px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"  width="30px" height="30px" />
+</p>
+
+<p align="center">
+  <!--   HTML -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  width="24px" height="24px" />
+  <!--   CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"  width="24px" height="24px" />
+  <!--   JS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"  width="24px" height="24px" />
+  <!--   NODE -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"  width="24px" height="24px" />
+  <!--   DATABASE -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"  width="24px" height="24px" />
+  <!--   PHP -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"  width="24px" height="24px" />
+  <!--   GIT -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original.svg"  width="24px" height="24px" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"  width="24px" height="24px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"  width="24px" height="24px" />
+  
+<!--   <img src=""  width="24px" height="24px" /> -->
 </p>
