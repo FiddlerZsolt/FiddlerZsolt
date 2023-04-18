@@ -10,7 +10,6 @@
   ],
   "hobbies": [
     "🎵 FL Studio",
-    "🎸 Guitar",
     "💻 Coding",
     "🚗 Driving",
     "🛴 E-Roller",
